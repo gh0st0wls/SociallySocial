@@ -22,6 +22,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 - [Links](#links)
+- [contributors](#contributors)
 
 ## Installation
 ```
@@ -65,5 +66,8 @@ clone the Repo, fork it push changes and other bug fixes and ill approve the mer
 - For Further Questions and Bug reports Please reach out to me at Github [Dylan](https://github.com/gh0st0wls/SociallySocial) or email me at dylanbender3@gmail.com
 
 ## Links
-- [video Demo]()
+- [video Demo](https://www.loom.com/share/9b3bcf89abac4923ab8344b683839e5c?sid=ccb2e474-93ed-41dd-8fa2-47cf637df75b)
 - [Repository](https://github.com/gh0st0wls/SociallySocial)
+
+## Contributors 
+Special thank to phil, nicole, Aley, Harriet, and Sidhu :) 
